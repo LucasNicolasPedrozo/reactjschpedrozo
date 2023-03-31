@@ -1,0 +1,11 @@
+import React from 'react'
+
+export default function ItemListContainer(props) {
+    const { greeting } = props
+  return (
+    <div className="saludo">
+        Bienvenidos a {greeting} con REACTJS
+    </div>
+  )
+
+}

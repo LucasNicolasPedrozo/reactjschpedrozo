@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.saludo {
+  font-size: 20px;
+  margin-top: 10%;
+}
+
+.saludo:hover {
+  color: rgb(233, 0, 0)
+}
